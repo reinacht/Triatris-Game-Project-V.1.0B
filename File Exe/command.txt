@@ -4,6 +4,7 @@ command for build .exe
 if u wanna try it, copy + paste and open terminal (ctrl + shift + `)
 
 note : remove 3 file below before rebuild. And ensure that u have already pip install pyinstaller first
+note : move out this folder into singular folder, then open in vscode with folder "File Exe"
 1. build
 2. dist
 3. Triatris.spec
