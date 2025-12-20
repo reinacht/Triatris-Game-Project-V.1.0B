@@ -1,0 +1,12 @@
+pyinstaller --onefile --noconsole --name Triatris --icon=assets/img/icon/icon_256.ico --add-data "assets;assets" --add-data "Shapes;Shapes" main.py
+
+command tuk build jdi .exe
+klw mw coba, ksalin dan paste di terminal (ctrl + shift + `)
+
+note : hapus file di bawah ini kalau mau build ulang nyoba nyoba. Dan install pyinstaller dahulu dengan pip
+1. build
+2. dist
+3. Triatris.spec
+
+
+
