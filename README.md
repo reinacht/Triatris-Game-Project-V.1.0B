@@ -1,5 +1,6 @@
 # Triatris Game
 <b> IMPORTANT !! FILE EXE IS EXPERIMENTAL !! </b>
+<b> if u find any bugs just fix it lol in that .exe </b>
 
 Game mechanism:
 1. Shape only merged once  
