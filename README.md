@@ -1,6 +1,7 @@
 # Triatris Game
 <b> IMPORTANT !! FILE EXE IS EXPERIMENTAL !! </b>  
 <b> if u find any bugs just fix it lol in that .exe </b>
+Check the latest version of this game : https://github.com/reinacht/Triatris-Game-Project-V.2.0 (fix bug)
 
 Game mechanism:
 1. Shape only merged once  
